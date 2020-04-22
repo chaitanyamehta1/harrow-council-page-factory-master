@@ -1,0 +1,27 @@
+2020-04-20 22:04:281 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-20 22:04:878 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:844 INFO  HomePage :51 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-20 22:04:873 INFO  CouncilTaxPage :27 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (5546ff78cbba58f285879b25260e791c)] -> class name: page-heading]
+2020-04-20 22:04:175 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:759 INFO  HomePage :51 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-20 22:04:830 INFO  CouncilTaxPage :27 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (a2537b6ab49c5f04f2f985aa3b7a0146)] -> class name: page-heading]
+2020-04-20 22:04:837 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:779 INFO  HomePage :51 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-20 22:04:809 INFO  CouncilTaxPage :27 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (97edae0fd9497398bb255b0bed0c5dd4)] -> class name: page-heading]
+2020-04-20 22:04:123 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:642 INFO  HomePage :39 - Clicking on search button [[ChromeDriver: chrome on WINDOWS (48f8a41dd40444c24423f5ca4d1d6ef9)] -> xpath: //span[@class='icon toggle-icon toggle-icon--search']]
+2020-04-20 22:04:145 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:203 INFO  HomePage :45 - Clicking on service button [[ChromeDriver: chrome on WINDOWS (305be17a2ddf05c08ce7034a11d41a22)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-20 22:04:908 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:64 INFO  HomePage :33 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-20 22:04:119 INFO  LoginPage :27 - Getting login welcome messgae [[ChromeDriver: chrome on WINDOWS (6a843e16f15cc011b5f6652a5c35b576)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-20 22:04:722 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:90 INFO  HomePage :51 - Clicking on council tax button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='widget-row widget-row--flush widget-row--full-width']//a[2]'
+2020-04-20 22:04:122 INFO  CouncilTaxPage :27 - Getting council tax message [[ChromeDriver: chrome on WINDOWS (daa3a92e094043dd6a25073ca33290ee)] -> class name: page-heading]
+2020-04-20 22:04:579 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:493 INFO  HomePage :39 - Clicking on search button [[ChromeDriver: chrome on WINDOWS (7ba0d63e26c9b121abb01ae08d5b14e3)] -> xpath: //span[@class='icon toggle-icon toggle-icon--search']]
+2020-04-20 22:04:981 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:138 INFO  HomePage :45 - Clicking on service button [[ChromeDriver: chrome on WINDOWS (2751d1b61668c5f3019c5234e8d14756)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-20 22:04:722 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 22:04:957 INFO  HomePage :33 - Clicking on login button Proxy element for: DefaultElementLocator 'By.className: icon-fallback'
+2020-04-20 22:04:991 INFO  LoginPage :27 - Getting login welcome messgae [[ChromeDriver: chrome on WINDOWS (af4551fe1a3ca0a30f009a24361a4a44)] -> xpath: //h2[contains(text(),'Log in')]]

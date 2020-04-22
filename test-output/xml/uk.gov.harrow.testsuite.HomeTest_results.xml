@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test suite"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.904">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToSearchFeature" time="3.653" classname="uk.gov.harrow.testsuite.HomeTest" />
+                <testcase name="verifyUserShouldNavigateToServicesFeature" time="0.251" classname="uk.gov.harrow.testsuite.HomeTest" />
+      
+</testsuite>
